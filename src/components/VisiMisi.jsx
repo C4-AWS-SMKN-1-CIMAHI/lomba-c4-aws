@@ -18,8 +18,8 @@ const VisiMisi = () => {
                             <h1>MISI</h1>
                         </Col>
                         <Col className="misi-txt w-100 d-flex justify-content-center">
-                            <div className="misi-txt ly d-flex flex-row gap-5">
-                                <Row className="misi-list-1 background-color-red">
+                            <div className="misi-txt w-100 ly d-flex flex-row gap-5">
+                                <Row className="misi-list-1 w-50 p-3">
                                     <Col>
                                         <ol>
                                             <li>Menghasilkan peserta didik yang unggul, beriman dan bertakwa kepada Tuhan Yang Maha Esa, berakhlak mulia, berkebinekaan, mandiri, bergotong royong, bernalar kritis, kreatif.</li>
@@ -28,7 +28,7 @@ const VisiMisi = () => {
                                         </ol>
                                     </Col>
                                 </Row>
-                                <Row className="misi-list-2">
+                                <Row className="misi-list-2 w-50 p-3">
                                     <Col>
                                         <ol>
                                             <li>Menumbuh kembangkan literasi, penguasaan perkembangan teknologi, informasi, memahami keberagaman sosial budaya dan kultur.</li>
